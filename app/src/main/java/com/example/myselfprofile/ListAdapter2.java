@@ -16,8 +16,8 @@ public class ListAdapter2 extends RecyclerView.Adapter {
     Kelas           : IF2
     Matakuliah      : Aplikasi Komputasi Bergerak
 
-    Membuat adapter untuk digunakan pada fragment
-    Mengubah panggilan data sesuai dengan konten yang dibutuhkan
+    3 Juni 2021 : Membuat adapter untuk digunakan pada fragment
+    3 Juni 2021 : Mengubah panggilan data sesuai dengan konten yang dibutuhkan
      */
     @NonNull
     @Override

@@ -7,9 +7,9 @@ public class OurData {
     Kelas           : IF2
     Matakuliah      : Aplikasi Komputasi Bergerak
 
-    Membuat our data untuk menyimpan data yang akan dipanggil.
-    Mengupdate ourdata untuk fragment music
-    Menambahkan data untuk friendlist dan juga daily
+    4 Juni 2021 : Membuat our data untuk menyimpan data yang akan dipanggil.
+    4 Juni 2021 : Mengupdate ourdata untuk fragment music
+    4 Juni 2021 : Menambahkan data untuk friendlist dan juga daily
      */
 
 

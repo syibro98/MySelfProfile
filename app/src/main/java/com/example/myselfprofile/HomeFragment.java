@@ -16,8 +16,8 @@ public class HomeFragment extends Fragment {
     Kelas           : IF2
     Matakuliah      : Aplikasi Komputasi Bergerak
 
-    Membuat aktivity home_fragment untuk logic ketika bottomviewer diklik. juga membuat layout home untuk tampilan fragment
-    Mengerjakan layout home fragment berisi profil dan hobi, mengisi konten fragment home berupa deskripsi diri, profile, dan interest
+    2 Juni 2021 : Membuat aktivity home_fragment untuk logic ketika bottomviewer diklik. juga membuat layout home untuk tampilan fragment
+    3 Juni 2021 : Mengerjakan layout home fragment berisi profil dan hobi, mengisi konten fragment home berupa deskripsi diri, profile, dan interest
      */
 
 

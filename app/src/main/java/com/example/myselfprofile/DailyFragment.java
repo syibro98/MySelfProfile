@@ -19,9 +19,9 @@ public class DailyFragment extends Fragment {
     Kelas           : IF2
     Matakuliah      : Aplikasi Komputasi Bergerak
 
-    Membuat aktivity daily_fragment untuk logic ketika bottomviewer diklik. juga membuat layout daily untuk tampilan fragment
-    Mnegupdate daily fragment untuk diterapkan 2 recycler view
-    Mengubah recyclerview kedua menjadi horizontal
+    3 Juni 2021 : Membuat aktivity daily_fragment untuk logic ketika bottomviewer diklik. juga membuat layout daily untuk tampilan fragment
+    3 Juni 2021 : Mnegupdate daily fragment untuk diterapkan 2 recycler view
+    3 Juni 2021 : Mengubah recyclerview kedua menjadi horizontal
      */
     @Nullable
     @Override

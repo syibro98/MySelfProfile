@@ -14,7 +14,7 @@ public class SplashScreen extends AppCompatActivity {
         Kelas           : IF2
         Matakuliah      : Aplikasi Komputasi Bergerak
 
-        Membuat activity splash screen untuk menampilkan layout splash screen selama 4 detik kemudian pindah ke activity welcome
+        4 Juni 2021 : Membuat activity splash screen untuk menampilkan layout splash screen selama 4 detik kemudian pindah ke activity welcome
         */
     private int waktu_loading=2500;
 

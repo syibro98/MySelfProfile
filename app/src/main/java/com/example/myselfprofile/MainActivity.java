@@ -20,10 +20,10 @@ public class MainActivity extends AppCompatActivity implements BottomNavigationV
     Kelas           : IF2
     Matakuliah      : Aplikasi Komputasi Bergerak
 
-    Membuat aktivity home sebagai tampilan utama dari aplikasi
-    Mengganti warna primer, mengganti background semua fragment
-    Merombak ulang activity home, di refactor untuk mengubah nama agar mempermudah dan merombak struktru fragment serta buttom navigation
-    Menyusun ulang project dan merombak ulang file didalamnya, menghapus drawable file dan layout yang tidak dibutuhkan serta merapikan codingan
+    3 Juni 2021 : Membuat aktivity home sebagai tampilan utama dari aplikasi
+    3 Juni 2021 : Mengganti warna primer, mengganti background semua fragment
+    3 Juni 2021 : Merombak ulang activity home, di refactor untuk mengubah nama agar mempermudah dan merombak struktru fragment serta buttom navigation
+    4 Juni 2021 : Menyusun ulang project dan merombak ulang file didalamnya, menghapus drawable file dan layout yang tidak dibutuhkan serta merapikan codingan
 
      */
 

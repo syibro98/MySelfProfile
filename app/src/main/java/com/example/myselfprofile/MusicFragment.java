@@ -21,8 +21,8 @@ public class MusicFragment extends Fragment {
     Kelas           : IF2
     Matakuliah      : Aplikasi Komputasi Bergerak
 
-     Membuat aktivity music_fragment untuk logic ketika bottomviewer diklik. juga membuat layout music untuk tampilan fragment
-    Mengupdate fragment music serta layoutnya untuk di isi konten
+    3 Juni 2021 : Membuat aktivity music_fragment untuk logic ketika bottomviewer diklik. juga membuat layout music untuk tampilan fragment
+    3 Juni 2021 : Mengupdate fragment music serta layoutnya untuk di isi konten
      */
 
 

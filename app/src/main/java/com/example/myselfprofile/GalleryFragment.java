@@ -22,8 +22,8 @@ public class GalleryFragment extends Fragment {
     Kelas           : IF2
     Matakuliah      : Aplikasi Komputasi Bergerak
 
-    Membuat fragment gallery_fragment untuk logic ketika bottomviewer diklik. juga membuat layout home untuk tampilan fragment
-    Membuat fragment gallery serta logic untuk menampilkan gambarnya.
+    2 Juni 2021 : Membuat fragment gallery_fragment untuk logic ketika bottomviewer diklik. juga membuat layout home untuk tampilan fragment
+    2 Juni 2021 : Membuat fragment gallery serta logic untuk menampilkan gambarnya.
      */
 
     @Nullable

@@ -16,8 +16,8 @@ public class ListAdapter extends RecyclerView.Adapter {
     Kelas           : IF2
     Matakuliah      : Aplikasi Komputasi Bergerak
 
-  Membuat adapter untuk digunakan pada fragment
-  Mengubah referensi data sesuai konten
+  2 Juni 2021 : Membuat adapter untuk digunakan pada fragment
+  3 Juni 2021 : Mengubah referensi data sesuai konten
    */
     @NonNull
     @Override

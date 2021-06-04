@@ -23,7 +23,7 @@ public class LocalImageAdapter extends RecyclerView.Adapter<LocalImageAdapter.Ho
     Kelas           : IF2
     Matakuliah      : Aplikasi Komputasi Bergerak
 
-    Membuat adapter untuk fragment gallery, example from ufebri
+    3 Juni 2021 : Membuat adapter untuk fragment gallery, example from ufebri
      */
 
     private List<LocalImages> images;

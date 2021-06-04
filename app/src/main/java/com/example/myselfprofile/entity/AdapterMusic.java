@@ -18,7 +18,7 @@ public class AdapterMusic extends RecyclerView.Adapter {
     Kelas           : IF2
     Matakuliah      : Aplikasi Komputasi Bergerak
 
-    Membuat adapter untuk digunakan pada fragment music
+    31 Mei 2021 : Membuat adapter untuk digunakan pada fragment music
      */
     @NonNull
     @Override

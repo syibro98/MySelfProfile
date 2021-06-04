@@ -7,7 +7,7 @@ public class ModelDaily {
     Kelas           : IF2
     Matakuliah      : Aplikasi Komputasi Bergerak
 
-    Membuat model daily untuk digunakan pada fragment daily
+    3 Juni 2021 : Membuat model daily untuk digunakan pada fragment daily
      */
 
         private String hari;

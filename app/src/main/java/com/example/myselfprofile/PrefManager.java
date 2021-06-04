@@ -10,7 +10,7 @@ public class PrefManager {
     Kelas           : IF2
     Matakuliah      : Aplikasi Komputasi Bergerak
 
-    Membuat kelas pref manager untuk menyimpan configurasi aplikasi
+    3 Juni 2021 : Membuat kelas pref manager untuk menyimpan configurasi aplikasi
      */
 
     SharedPreferences pref;

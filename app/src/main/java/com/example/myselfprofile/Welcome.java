@@ -27,7 +27,7 @@ public class Welcome extends AppCompatActivity  {
     Kelas           : IF2
     Matakuliah      : Aplikasi Komputasi Bergerak
 
-    Membuat aktivity welcome, didalamnya terdapat 4 slider sebagai walkthrough berdasarkan coding referensi dari orang lain
+    4 Juni 2021 : Membuat aktivity welcome, didalamnya terdapat 4 slider sebagai walkthrough berdasarkan coding referensi dari orang lain
 
      */
 

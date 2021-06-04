@@ -16,7 +16,7 @@ public class DialogFragment extends androidx.fragment.app.DialogFragment {
         Kelas           : IF2
         Matakuliah      : Aplikasi Komputasi Bergerak
 
-        Membuat fragment dialog fragment
+        2 Juni 2021 : Membuat fragment dialog fragment
          */
         @Nullable
         @Override

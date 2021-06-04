@@ -22,7 +22,7 @@ public class AdapterDaily extends RecyclerView.Adapter<AdapterDaily.DailyViewHol
     Kelas           : IF2
     Matakuliah      : Aplikasi Komputasi Bergerak
 
-    Membuat adapter untuk digunakan pada fragment daily
+    31 Mei 2021 : Membuat adapter untuk digunakan pada fragment daily
      */
 
     private ArrayList<ModelDaily> dataList;

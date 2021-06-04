@@ -16,8 +16,8 @@ public class AccountFragment extends Fragment {
     Kelas           : IF2
     Matakuliah      : Aplikasi Komputasi Bergerak
 
-    Membuat aktivity account_fragment untuk logic ketika bottomviewer diklik. juga membuat layout acoount untuk tampilan fragment
-    Membuat findme, connect instagram, dan konten untuk fragment account
+    1 Juni 2021 : Membuat aktivity account_fragment untuk logic ketika bottomviewer diklik. juga membuat layout acoount untuk tampilan fragment
+    2 Juni 2021 : Membuat findme, connect instagram, dan konten untuk fragment account
      */
     @Nullable
     @Override
