@@ -1,0 +1,2 @@
+rootProject.name = "MySelfProfile"
+include ':app'
